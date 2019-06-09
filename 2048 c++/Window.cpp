@@ -651,7 +651,7 @@ void Window::draw_legend(int x,int y,int board_size)
 	char text[128];
 	
 	draw_rectangle(4, 4, SCREEN_WIDTH - 8, 36, numbers_color[0], numbers_color[5]);
-	sprintf(text, "2048");
+	sprintf(text, "Game");
 	draw_string(Window::screen->w / 2 - strlen(text) * 8 / 2, 10, text, WHITE_TEXT);
 	sprintf(text, "2048");
 	draw_string(Window::screen->w / 2 - strlen(text) * 8 / 2, 26, text, WHITE_TEXT);
