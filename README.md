@@ -1,5 +1,8 @@
 # 2048
 2048 made in c++ using sdl2.
+
+orginal - https://en.wikipedia.org/wiki/2048_(video_game)
+
 Additional features:
 - save and load game
 - ranking for each board size
@@ -8,7 +11,7 @@ Additional features:
   - *best of all borad sizes*
     
 
-orginal - https://en.wikipedia.org/wiki/2048_(video_game)
+
 
 ## Board size
 You can set board size starting from 2x2 and ending on 9x9 
