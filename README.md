@@ -3,9 +3,9 @@
 Additional features:
 -save and load game
 -ranking for each board size
-  *sorted by time
-  *sorted by score
-  *best of all borad sizes
+\t*sorted by time
+\t *sorted by score
+\t *best of all borad sizes
 
 orginal - https://en.wikipedia.org/wiki/2048_(video_game)
 
