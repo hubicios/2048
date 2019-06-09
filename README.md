@@ -1,9 +1,9 @@
 # 2048
 2048 made in c++ using sdl2.
 
-orginal - https://en.wikipedia.org/wiki/2048_(video_game)
+original - https://en.wikipedia.org/wiki/2048_(video_game)
 
-Additional features:
+### Additional features:
 - save and load game
 - ranking for each board size
   - *sorted by time*
